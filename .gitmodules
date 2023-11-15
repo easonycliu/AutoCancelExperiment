@@ -1,0 +1,6 @@
+[submodule "elasticsearch_exp"]
+	path = elasticsearch_exp
+	url = https://github.com/liuyc1515/ElasticsearchExperiment.git
+[submodule "solr_exp"]
+	path = solr_exp
+	url = https://github.com/liuyc1515/SolrExperiment.git
