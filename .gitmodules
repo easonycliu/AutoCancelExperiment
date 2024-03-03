@@ -5,4 +5,4 @@
 [submodule "solr_exp"]
 	path = solr_exp
 	url = git@github.com:liuyc1515/SolrExperiment.git
-    branch = master
+    branch = experiment
